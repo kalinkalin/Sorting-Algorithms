@@ -30,9 +30,9 @@ There is also optional `--stat` flag, which will run test for given algorithm fo
 
 example of usage : `./main --type merge --order ">=" --stat my_file.txt 100`
 
-Example effect:
+**Example effect:**
 
 ![](https://image.ibb.co/jHFAOJ/c_n_all.jpg)
-*Statistics processed in matlab programme*
+*Statistics from a text file processed in matlab programme*
 
 
