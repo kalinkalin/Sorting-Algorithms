@@ -5,6 +5,8 @@ My implementations of two types of order statistics algorithm:
   * **[Median of medians](https://en.wikipedia.org/wiki/Median_of_medians) select** - improved selection algorithm. Pivot is chosen by selecting medians of each 5 consecutive numbers and then median of this partial medians.
   Worst-case of this algorithm is linear.
   
+  <hr>
+  
   ### USAGE
   
   There are two input modes and two according flags. 
