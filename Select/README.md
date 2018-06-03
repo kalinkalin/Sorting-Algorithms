@@ -8,7 +8,7 @@ My implementations of two types of order statistics algorithm:
   ### USAGE
   
   There are two input modes and two according flags. 
-    * `-p` - input is random permutation of 1,2,...,n set
-    * `r` - input is randomly chosen set of numbers from 1,..,1000 of size n 
+   * `-p` - input is random permutation of 1,2,...,n set
+   * `-r` - input is randomly chosen set of numbers from 1,..,1000 of size n 
     
   There are two parameters typed after programme start, n - size of an array and k- order of element we are looking for. Statistics like time ,swaps and kth number are printed to stdout and current array is printed to stderr, so in case of big arrays it is recommended to redirect stderr to /dev/null.
